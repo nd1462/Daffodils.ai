@@ -1,1 +1,19 @@
-Lyrics generator: 
+PROJECT PROPOSAL
+Submitted by: Himanshu Singh (hs3773@nyu.edu) Nipun Dixit (nd1462@nyu.edu)
+Project Title: Daffodils.ai
+
+Project Description:
+Daffodils.ai is a poetry generator tool which will use Recurrent Neural Networks and Markov chains
+to generate new poems which will be in the writing pattern of a particular author whose various
+poems will be fed to the model as an input. Markov chains will be used to build the new sentences
+and the RNN(Recurrent Neural Network) will be used to predict the various properties (syllables,
+styles, rhyme scheme etc.) of the subsequent lines of the poems which in turn will ensure that the
+appropriate new sentences are selected which were generated using the Markovify functions.
+
+The data in the form of various poems of certain authors will be fed as an input to generate various
+poems, which is readily available at kaggle and various other sites.
+
+Future Prospects and Challenges:
+The approach stated above will do a better job to produce the rhyming poems, also it will be able to effectively produce the rap songs, 
+but the major challenge will be posed in form of generating meaningful and logical poems and in turn limits of
+project will be pushed further to generate logical and unique poems as well as stories.
